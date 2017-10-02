@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OIDCHIIE
 
 [Document4]
-DocumentPath=usb_eth.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QVMPPECD
-
-[Document5]
 DocumentPath=step-dir-single.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,24 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCJUXKMB
 
-[Document6]
-DocumentPath=rs232-4ch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OSJEMBMW
-
-[Document7]
+[Document5]
 DocumentPath=terms.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFCUWENP
 
-[Document8]
+[Document6]
 DocumentPath=usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEVSWUVD
 
-[Document9]
+[Document7]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Surface Mount\SOIC_127P_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Chip_Resistor_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Chip_Capacitor_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Connector\Con USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Ftdi\ftdi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCBVUNVR
 
-[Document15]
+[Document13]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Connector\Con wf.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Connector\Con IDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Altera\Altera EPCS Configuration Device.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Altera\Altera Cyclone IV E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Surface Mount\SOT223_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=D:\YandexDisk\dev\pcblibs\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Crystal Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFLETFQA
 
-[Document22]
+[Document20]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Connector\Con Low Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHRIWOCE
 
-[Document23]
+[Document21]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Maxim\Maxim Communication Transceiver.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document22]
 DocumentPath=D:\YandexDisk\dev\pcblibs\Surface Mount\DPAK_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
